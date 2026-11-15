@@ -1,0 +1,8 @@
+/main.py
+/build/
+/KPU/
+/k210/2.8_face_recog.py
+*.hex
+*.kmodel
+data.txt
+__pycache__/
